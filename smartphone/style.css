@@ -1,3 +1,10 @@
+body {
+    background-image: linear-gradient(to bottom right, lightblue, darkblue, indigo, purple, hotpink);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
 .container {
     display: flex;
     justify-content: center;
@@ -10,170 +17,170 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    margin-top: 70px;
+    margin-top: 30px;
 
     border: 2px solid pink;
-    border-radius: 10px;
-    height: 500px;
-    width: 300px;
+    border-radius: 15px;
+    height: 580px;
+    width: 350px;
 }
 
 .app1 {
-    width: 50px;
-    height: 50px;
+    width: 65px;
+    height: 65px;
     background: blue;
     margin: 5px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .app2 {
-    width: 50px;
-    height: 50px;
+    width: 65px;
+    height: 65px;
     background: green;
     margin: 5px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .app3 {
-    width: 50px;
-    height: 50px;
+    width: 65px;
+    height: 65px;
     background: red;
     margin: 5px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .app4 {
-    width: 50px;
-    height: 50px;
+    width: 65px;
+    height: 65px;
     background: purple;
     margin: 5px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .app5 {
-    width: 50px;
-    height: 50px;
+    width: 65px;
+    height: 65px;
     background: orange;
     margin: 5px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .app6 {
-    width: 50px;
-    height: 50px;
+    width: 65px;
+    height: 65px;
     background: yellow;
     margin: 5px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .app7 {
-    width: 50px;
-    height: 50px;
+    width: 65px;
+    height: 65px;
     background: magenta;
     margin: 5px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .app8 {
-    width: 50px;
-    height: 50px;
-    background: cyan;
+    width: 65px;
+    height: 65px;
+    background: yellowgreen;
     margin: 5px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .app9 {
-    width: 50px;
-    height: 50px;
+    width: 65px;
+    height: 65px;
     background: hotpink;
     margin: 5px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .app10 {
-    width: 50px;
-    height: 50px;
+    width: 65px;
+    height: 65px;
     background: brown;
     margin: 5px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .app11 {
-    width: 50px;
-    height: 50px;
+    width: 65px;
+    height: 65px;
     background: black;
     margin: 5px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .app12 {
-    width: 50px;
-    height: 50px;
+    width: 65px;
+    height: 65px;
     background: gray;
     margin: 5px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .app13 {
-    width: 50px;
-    height: 50px;
+    width: 65px;
+    height: 65px;
     background: lightpink;
     margin: 5px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .app14 {
-    width: 50px;
-    height: 50px;
+    width: 65px;
+    height: 65px;
     background: skyblue;
     margin: 5px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .app15 {
-    width: 50px;
-    height: 50px;
-    background: yellowgreen;
+    width: 65px;
+    height: 65px;
+    background: forestgreen;
     margin: 5px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .app16 {
-    width: 50px;
-    height: 50px;
+    width: 65px;
+    height: 65px;
     background: maroon;
     margin: 5px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .app17 {
-    width: 50px;
-    height: 50px;
-    background: indigo;
+    width: 65px;
+    height: 65px;
+    background: cyan;
     margin: 5px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .app18 {
-    width: 50px;
-    height: 50px;
+    width: 65px;
+    height: 65px;
     background: teal;
     margin: 5px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .app19 {
-    width: 50px;
-    height: 50px;
+    width: 65px;
+    height: 65px;
     background: salmon;
     margin: 5px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .app20 {
-    width: 50px;
-    height: 50px;
-    background: forestgreen;
+    width: 65px;
+    height: 65px;
+    background: indigo;
     margin: 5px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
