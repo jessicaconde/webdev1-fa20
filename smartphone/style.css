@@ -1,3 +1,179 @@
-h1 {
-    color:red;
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.phone {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+
+    border: 2px solid pink;
+    border-radius: 10px;
+    height: 500px;
+    width: 300px;
+}
+
+.app1 {
+    width: 50px;
+    height: 50px;
+    background: blue;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.app2 {
+    width: 50px;
+    height: 50px;
+    background: green;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.app3 {
+    width: 50px;
+    height: 50px;
+    background: red;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.app4 {
+    width: 50px;
+    height: 50px;
+    background: purple;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.app5 {
+    width: 50px;
+    height: 50px;
+    background: orange;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.app6 {
+    width: 50px;
+    height: 50px;
+    background: yellow;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.app7 {
+    width: 50px;
+    height: 50px;
+    background: magenta;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.app8 {
+    width: 50px;
+    height: 50px;
+    background: cyan;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.app9 {
+    width: 50px;
+    height: 50px;
+    background: hotpink;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.app10 {
+    width: 50px;
+    height: 50px;
+    background: brown;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.app11 {
+    width: 50px;
+    height: 50px;
+    background: black;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.app12 {
+    width: 50px;
+    height: 50px;
+    background: gray;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.app13 {
+    width: 50px;
+    height: 50px;
+    background: lightpink;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.app14 {
+    width: 50px;
+    height: 50px;
+    background: skyblue;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.app15 {
+    width: 50px;
+    height: 50px;
+    background: yellowgreen;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.app16 {
+    width: 50px;
+    height: 50px;
+    background: maroon;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.app17 {
+    width: 50px;
+    height: 50px;
+    background: indigo;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.app18 {
+    width: 50px;
+    height: 50px;
+    background: teal;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.app19 {
+    width: 50px;
+    height: 50px;
+    background: salmon;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.app20 {
+    width: 50px;
+    height: 50px;
+    background: forestgreen;
+    margin: 5px;
+    border-radius: 5px;
 }
