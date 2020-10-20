@@ -10,7 +10,14 @@
     background-color: black;
     margin-top: 30vh;
     border-radius: 15px;
+    padding: 10px 30px 40px 30px;
     text-align: center;
+}
+
+
+a {
+    color: white;
+    font-size: 9px;
 }
 
 h1 {
