@@ -1,3 +1,34 @@
+#container {
+    max-width: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+#box {
+    background-color: black;
+    margin-top: 30vh;
+    border-radius: 15px;
+    text-align: center;
+}
+
 h1 {
-    color: indigo;
+    color: white;
+}
+
+p {
+    color: skyblue;
+    font-size: 20px;
+}
+
+@media only screen and (max-width: 900px) { 
+    p {
+    font-size: 15px;
+    color: magenta;
+    }
+
+    #box {
+        width: 80vw;
+    }
 }
