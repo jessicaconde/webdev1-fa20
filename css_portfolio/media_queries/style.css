@@ -38,4 +38,8 @@ p {
     #box {
         width: 80vw;
     }
+
+    h1 {
+        font-size: 25px;
+    }
 }
