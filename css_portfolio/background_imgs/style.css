@@ -1,3 +1,31 @@
-h1 {
-    color: lavender;
+#container {
+    max-width: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
 }
+
+#box {
+    background-color: black;
+    margin-top: 50vh;
+    margin-left: 60vh;
+    border-radius: 15px;
+    padding: 10px 30px 10px 30px;
+    text-align: center;
+}
+
+body {
+    background-image: url("../images/botw.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: white;
+}
+
+@media only screen and (max-width: 1000px) {
+    body {
+      background-image: url("../images/botw2.jpg");
+    }
