@@ -6,6 +6,10 @@
     margin: 0 auto;
 }
 
+body {
+    background-color: lavender;
+}
+
 #box {
     background-color: black;
     margin-top: 30vh;

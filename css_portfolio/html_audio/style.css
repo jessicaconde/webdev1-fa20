@@ -18,6 +18,10 @@ img {
     text-align: center;
 }
 
+body {
+    background-color: lavender;
+}
+
 h1 {
     color: white;
     margin: 0 auto;
