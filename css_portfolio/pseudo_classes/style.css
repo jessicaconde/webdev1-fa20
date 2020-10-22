@@ -1,3 +1,61 @@
+#container {
+    max-width: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+#box {
+    margin-top: 30vh;
+    background-color: black;
+    width: 300px;
+    height: 200px;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    padding: 0 40px 40px 40px;
+    border-radius: 10px;
+}
+
+body {
+    background-color: lavender;
+}
+
 h1 {
-    color: skyblue;
+    color: white;
+    margin-bottom: 0;
+}
+
+p {
+    font-size: 11px;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+a.one:hover {
+    background-color: indigo;
+}
+
+a.one:visited {
+    color: lightgreen;
+}
+
+a.two:hover {
+    font-family: Courier New;
+}
+
+a.two:visited {
+    color: lightgreen;
+}
+
+a.three:hover {
+    font-size: 25px;
+}
+
+a.three:visited {
+    color: lightgreen;
 }
