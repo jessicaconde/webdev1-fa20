@@ -1,3 +1,71 @@
+#container {
+    max-width: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+#box {
+    margin-top: 9vh;
+    background-color: black;
+    width: 550px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+body {
+    background-color: lavender;
+}
+
+.description {
+    color: white;
+    font-size: 11px;
+    text-align: right;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+
 h1 {
-    color: forestgreen;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    margin-left: 20px;
+    color: white;
+}
+
+h2::before {
+    content: url(../images/controller1.png)
+}
+
+p {
+    color: white;
+    margin-left: 30px;
+    margin-right: 20px;
+    font-size: 13px;
+}
+
+p::first-line {
+    color: skyblue;
+    font-variant: small-caps;
+}
+
+a {
+    color: lightgreen;
+}
+
+a:hover {
+    color: white;
+}
+
+a.goback {
+    margin-left: 215px;
+    color: skyblue;
+}
+
+a.goback:hover {
+    color: white;
 }
