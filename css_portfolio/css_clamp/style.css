@@ -1,3 +1,42 @@
+#container {
+    max-width: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+#box {
+    margin-top: 30vh;
+    background-color: black;
+    width: clamp(20vw, 30vw, 50vw);
+    height: clamp(10vw, 15vw, 50vw);
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px 20px 10px 20px;
+}
+
+body {
+    background-color: lavender;
+}
+
 h1 {
-    color: green;
+    color: white;
+    font-size: clamp(2vw, 2.5vw, 4vw);
+    margin-top: 20px;
+}
+
+p {
+    color: white;
+    font-size: clamp(1vw, 1.5vw, 2vw)
+}
+
+a {
+    color: skyblue;
+    font-size: clamp(1vw, 1.5vw, 2vw)
+}
+
+a:hover {
+    color: white;
 }
